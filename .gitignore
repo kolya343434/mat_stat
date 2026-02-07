@@ -1,0 +1,13 @@
+.venv/
+.vs/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
